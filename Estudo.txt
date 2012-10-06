@@ -1,1 +1,4 @@
 Ola git.
+Muito bom o esquema de estudo.
+
+Esse arquivo seve para aprender git
